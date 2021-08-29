@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-GME TO DA MOON BOIIII
+Peanut Butter Jelly Time 
 Use the left arrow to go back!
